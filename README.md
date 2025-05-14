@@ -13,7 +13,7 @@ http://localhost:11434/api/generate -> POST
 
 {
     "model": "llama3",
-    "prompt": "What is the capital of France?",
+    "prompt": "What is the capital of India?",
     "temperature": 0.9,
     "stream":false
 }
